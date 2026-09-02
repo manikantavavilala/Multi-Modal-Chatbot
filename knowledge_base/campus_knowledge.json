@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "University Library",
+    "class": "library",
+    "category": "Study Area",
+    "description": "A quiet learning area containing books and digital resources for students and researchers.",
+    "opening_hours": "08:00 AM - 10:00 PM",
+    "location": "Building A, Floor 2",
+    "events": "Academic writing workshop"
+  },
+  {
+    "id": 2,
+    "name": "Computer Laboratory",
+    "class": "computerroom",
+    "category": "Technology Facility",
+    "description": "Room equipped with computers and licensed software for programming, data analysis, and design.",
+    "opening_hours": "09:00 AM - 08:00 PM",
+    "location": "Building B, Floor 1",
+    "events": "Python programming session"
+  },
+  {
+    "id": 3,
+    "name": "Main Auditorium",
+    "class": "auditorium",
+    "category": "Event Venue",
+    "description": "Large hall used for lectures, graduation ceremonies, cultural events, and seminars.",
+    "opening_hours": "08:00 AM - 09:00 PM",
+    "location": "Building C, Ground Floor",
+    "events": "Annual tech symposium"
+  },
+  {
+    "id": 4,
+    "name": "Art Studio",
+    "class": "artstudio",
+    "category": "Creative Space",
+    "description": "Creative workspace for fine arts, painting, sculpture, and design students.",
+    "opening_hours": "09:00 AM - 06:00 PM",
+    "location": "Building D, Floor 3",
+    "events": "Contemporary art exhibition"
+  },
+  {
+    "id": 5,
+    "name": "Campus Bookstore",
+    "class": "bookstore",
+    "category": "Retail",
+    "description": "Sells textbooks, stationery, university merchandise, and academic supplies.",
+    "opening_hours": "09:00 AM - 05:00 PM",
+    "location": "Building A, Ground Floor",
+    "events": "Semester textbook sale"
+  },
+  {
+    "id": 6,
+    "name": "Main Classroom Block",
+    "class": "classroom",
+    "category": "Academic Facility",
+    "description": "Standard lecture rooms equipped with projectors and whiteboards for regular classes.",
+    "opening_hours": "07:30 AM - 09:00 PM",
+    "location": "Building E, All Floors",
+    "events": "Guest lecturer series"
+  },
+  {
+    "id": 7,
+    "name": "Corridor Hub",
+    "class": "corridor",
+    "category": "Common Area",
+    "description": "Central corridor connecting all departments with notice boards and rest areas.",
+    "opening_hours": "07:00 AM - 11:00 PM",
+    "location": "All Buildings, All Floors",
+    "events": "Student club fair"
+  },
+  {
+    "id": 8,
+    "name": "Campus Dining Room",
+    "class": "dining_room",
+    "category": "Food & Beverage",
+    "description": "Main dining facility offering a variety of meals for students, faculty, and staff.",
+    "opening_hours": "07:30 AM - 08:00 PM",
+    "location": "Building F, Ground Floor",
+    "events": "International food festival"
+  },
+  {
+    "id": 9,
+    "name": "Main Elevator",
+    "class": "elevator",
+    "category": "Facility",
+    "description": "Accessible lift connecting all floors of the main academic building.",
+    "opening_hours": "07:00 AM - 10:00 PM",
+    "location": "Building A, Central Core",
+    "events": "Accessibility awareness drive"
+  },
+  {
+    "id": 10,
+    "name": "Fast Food Restaurant",
+    "class": "fastfood_restaurant",
+    "category": "Food & Beverage",
+    "description": "Quick-service food outlet offering snacks, beverages, and fast meals on campus.",
+    "opening_hours": "08:00 AM - 09:00 PM",
+    "location": "Building G, Ground Floor",
+    "events": "Student discount week"
+  },
+  {
+    "id": 11,
+    "name": "Campus Gymnasium",
+    "class": "gym",
+    "category": "Sports & Fitness",
+    "description": "Fully equipped gym with cardio machines, weights, and fitness classes for students.",
+    "opening_hours": "06:00 AM - 10:00 PM",
+    "location": "Sports Complex, Ground Floor",
+    "events": "Fitness challenge competition"
+  },
+  {
+    "id": 12,
+    "name": "Wet Laboratory",
+    "class": "laboratorywet",
+    "category": "Research Facility",
+    "description": "Laboratory with water, gas, and chemical supplies for biology and chemistry experiments.",
+    "opening_hours": "08:00 AM - 06:00 PM",
+    "location": "Building H, Floor 2",
+    "events": "Research open day"
+  },
+  {
+    "id": 13,
+    "name": "Campus Lobby",
+    "class": "lobby",
+    "category": "Common Area",
+    "description": "Main entrance and reception area with information desk and waiting seating.",
+    "opening_hours": "07:00 AM - 10:00 PM",
+    "location": "Building A, Ground Floor",
+    "events": "Welcome orientation day"
+  },
+  {
+    "id": 14,
+    "name": "Locker Room",
+    "class": "locker_room",
+    "category": "Facility",
+    "description": "Secure storage lockers for students near the gym and sports complex.",
+    "opening_hours": "06:00 AM - 10:00 PM",
+    "location": "Sports Complex, Floor 1",
+    "events": "Locker registration drive"
+  },
+  {
+    "id": 15,
+    "name": "Meeting Room",
+    "class": "meeting_room",
+    "category": "Collaboration Space",
+    "description": "Bookable rooms with AV equipment for group projects, interviews, and small meetings.",
+    "opening_hours": "08:00 AM - 08:00 PM",
+    "location": "Building B, Floor 3",
+    "events": "Industry mentorship session"
+  },
+  {
+    "id": 16,
+    "name": "Campus Museum",
+    "class": "museum",
+    "category": "Cultural Facility",
+    "description": "Displays university history, artefacts, and rotating cultural exhibitions.",
+    "opening_hours": "10:00 AM - 05:00 PM",
+    "location": "Building I, Ground Floor",
+    "events": "Heritage week exhibition"
+  },
+  {
+    "id": 17,
+    "name": "Faculty Office",
+    "class": "office",
+    "category": "Administrative",
+    "description": "Staff and faculty office spaces for consultation, administration, and research.",
+    "opening_hours": "09:00 AM - 05:00 PM",
+    "location": "Building J, All Floors",
+    "events": "Open office hour sessions"
+  },
+  {
+    "id": 18,
+    "name": "Campus Restaurant",
+    "class": "restaurant",
+    "category": "Food & Beverage",
+    "description": "Full-service restaurant offering hot meals, beverages, and a comfortable seating environment.",
+    "opening_hours": "11:00 AM - 09:00 PM",
+    "location": "Building K, Ground Floor",
+    "events": "Chef's special food night"
+  },
+  {
+    "id": 19,
+    "name": "Main Staircase",
+    "class": "stairscase",
+    "category": "Facility",
+    "description": "Primary staircase connecting all floors with safety rails and emergency exit signage.",
+    "opening_hours": "24 Hours",
+    "location": "All Buildings, Central Core",
+    "events": "Fire drill exercise"
+  },
+  {
+    "id": 20,
+    "name": "Waiting Room",
+    "class": "waitingroom",
+    "category": "Common Area",
+    "description": "Comfortable seating area near administrative offices for students awaiting appointments.",
+    "opening_hours": "08:00 AM - 06:00 PM",
+    "location": "Building A, Floor 1",
+    "events": "Student advisory walk-in day"
+  }
+]

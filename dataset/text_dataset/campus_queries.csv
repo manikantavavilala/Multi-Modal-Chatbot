@@ -1,0 +1,401 @@
+query,intent,location
+Is the Main Staircase open now?,ask_hours,stairscase
+When is the Fast Food Restaurant available?,ask_hours,fastfood_restaurant
+What time does the Meeting Room close?,ask_hours,meeting_room
+When does the Campus Lobby open?,ask_hours,lobby
+Tell me where the Faculty Office is.,find_location,office
+What are the opening hours of the Locker Room?,ask_hours,locker_room
+What does the Main Elevator offer?,get_description,elevator
+Show me the way to the Faculty Office.,find_location,office
+When does the Wet Laboratory open?,ask_hours,laboratorywet
+What time does the Waiting Room close?,ask_hours,waitingroom
+Can I visit the Campus Lobby after 8 PM?,ask_hours,lobby
+I need to find the Faculty Office.,find_location,office
+What programmes are running at the Waiting Room?,find_event,waitingroom
+Until what time is the Main Elevator open?,ask_hours,elevator
+What activities are scheduled at the University Library?,find_event,library
+Tell me about the Waiting Room.,get_description,waitingroom
+Until what time is the Campus Bookstore open?,ask_hours,bookstore
+Is the Fast Food Restaurant open on weekends?,ask_hours,fastfood_restaurant
+Are there any events at the Main Elevator?,find_event,elevator
+Any workshops at the Main Auditorium this week?,find_event,auditorium
+What does the Fast Food Restaurant offer?,get_description,fastfood_restaurant
+Is the Main Auditorium near the entrance?,find_location,auditorium
+Can I visit the Campus Museum after 8 PM?,ask_hours,museum
+What events are happening at the Campus Gymnasium?,find_event,gym
+Where is the Main Classroom Block?,find_location,classroom
+How do I get to the Main Classroom Block?,find_location,classroom
+Show me the way to the Campus Lobby.,find_location,lobby
+Tell me about the Main Classroom Block.,get_description,classroom
+I would like to know more about the Main Classroom Block.,get_description,classroom
+What are the Fast Food Restaurant hours today?,ask_hours,fastfood_restaurant
+What activities are scheduled at the Computer Laboratory?,find_event,computerroom
+When is the Main Staircase available?,ask_hours,stairscase
+When does the Main Staircase open?,ask_hours,stairscase
+Can you list events at the Main Classroom Block?,find_event,classroom
+What activities are scheduled at the Locker Room?,find_event,locker_room
+Is the Campus Museum open now?,ask_hours,museum
+What is the Campus Lobby?,get_description,lobby
+Give me information about the Main Classroom Block.,get_description,classroom
+Tell me about the Campus Museum.,get_description,museum
+I would like to know more about the Faculty Office.,get_description,office
+What events are happening at the Main Classroom Block?,find_event,classroom
+I need to find the Wet Laboratory.,find_location,laboratorywet
+What time does the Campus Lobby start?,ask_hours,lobby
+What are the opening hours of the Main Staircase?,ask_hours,stairscase
+Show me the way to the Main Elevator.,find_location,elevator
+Where is the Campus Dining Room?,find_location,dining_room
+Is there anything going on at the Campus Dining Room?,find_event,dining_room
+Tell me about the Campus Bookstore.,get_description,bookstore
+How do I get to the Campus Gymnasium?,find_location,gym
+Give me information about the Campus Dining Room.,get_description,dining_room
+What does the Computer Laboratory offer?,get_description,computerroom
+Is the Main Classroom Block open now?,ask_hours,classroom
+What can I do at the Faculty Office?,get_description,office
+Tell me about upcoming events at the Fast Food Restaurant.,find_event,fastfood_restaurant
+What are the Main Staircase hours today?,ask_hours,stairscase
+Tell me about the Fast Food Restaurant.,get_description,fastfood_restaurant
+What are the Faculty Office hours today?,ask_hours,office
+What is the Main Staircase?,get_description,stairscase
+What events are happening at the Campus Dining Room?,find_event,dining_room
+What is the Art Studio?,get_description,artstudio
+Is the Locker Room open on weekends?,ask_hours,locker_room
+Give me information about the University Library.,get_description,library
+Can you direct me to the Campus Museum?,find_location,museum
+Any workshops at the Campus Bookstore this week?,find_event,bookstore
+Is the Campus Bookstore open now?,ask_hours,bookstore
+Are there any events at the Campus Bookstore?,find_event,bookstore
+Is the Main Auditorium open now?,ask_hours,auditorium
+Show me the way to the University Library.,find_location,library
+What is available in the Main Elevator?,get_description,elevator
+When does the Computer Laboratory open?,ask_hours,computerroom
+Tell me about upcoming events at the Wet Laboratory.,find_event,laboratorywet
+What can I do at the Computer Laboratory?,get_description,computerroom
+What is happening at the Faculty Office today?,find_event,office
+What time does the University Library close?,ask_hours,library
+Is the Main Staircase open on weekends?,ask_hours,stairscase
+When is the Campus Bookstore available?,ask_hours,bookstore
+Show me the way to the Waiting Room.,find_location,waitingroom
+What time does the Locker Room start?,ask_hours,locker_room
+Can you direct me to the Campus Gymnasium?,find_location,gym
+What are the opening hours of the Wet Laboratory?,ask_hours,laboratorywet
+What is available in the Corridor Hub?,get_description,corridor
+Any workshops at the Corridor Hub this week?,find_event,corridor
+I would like to know more about the Main Elevator.,get_description,elevator
+Can I visit the Meeting Room after 8 PM?,ask_hours,meeting_room
+Where is the Main Elevator?,find_location,elevator
+What programmes are running at the Campus Museum?,find_event,museum
+What facilities does the Main Classroom Block have?,get_description,classroom
+Is there anything going on at the Waiting Room?,find_event,waitingroom
+What can I do at the Campus Gymnasium?,get_description,gym
+Give me information about the Main Elevator.,get_description,elevator
+Tell me about upcoming events at the Campus Restaurant.,find_event,restaurant
+Are there seminars at the Campus Lobby?,find_event,lobby
+What time does the Main Classroom Block close?,ask_hours,classroom
+Where is the Faculty Office?,find_location,office
+Show me the way to the Campus Restaurant.,find_location,restaurant
+Tell me where the Corridor Hub is.,find_location,corridor
+Is the University Library near the entrance?,find_location,library
+What can I do at the Main Elevator?,get_description,elevator
+What programmes are running at the University Library?,find_event,library
+Are there seminars at the Main Staircase?,find_event,stairscase
+Where can I find the Faculty Office?,find_location,office
+What is available in the Fast Food Restaurant?,get_description,fastfood_restaurant
+When is the Campus Lobby available?,ask_hours,lobby
+What is the location of the Locker Room?,find_location,locker_room
+Which floor is the Main Elevator on?,find_location,elevator
+When does the University Library open?,ask_hours,library
+Are there seminars at the Meeting Room?,find_event,meeting_room
+Any workshops at the Fast Food Restaurant this week?,find_event,fastfood_restaurant
+Is there anything going on at the Campus Gymnasium?,find_event,gym
+What activities are scheduled at the Corridor Hub?,find_event,corridor
+Which floor is the Campus Museum on?,find_location,museum
+What time does the Campus Bookstore close?,ask_hours,bookstore
+I need to find the Campus Gymnasium.,find_location,gym
+What is available in the Campus Museum?,get_description,museum
+What time does the Faculty Office close?,ask_hours,office
+Is there anything going on at the Corridor Hub?,find_event,corridor
+What is happening at the Campus Museum today?,find_event,museum
+Is the Computer Laboratory open on weekends?,ask_hours,computerroom
+Tell me about upcoming events at the Meeting Room.,find_event,meeting_room
+What is available in the Wet Laboratory?,get_description,laboratorywet
+Is the Waiting Room open now?,ask_hours,waitingroom
+Describe the University Library for me.,get_description,library
+What is available in the Campus Gymnasium?,get_description,gym
+Tell me about upcoming events at the University Library.,find_event,library
+Can you direct me to the Locker Room?,find_location,locker_room
+What is the Main Auditorium?,get_description,auditorium
+Until what time is the University Library open?,ask_hours,library
+What does the Campus Bookstore offer?,get_description,bookstore
+Tell me where the Campus Restaurant is.,find_location,restaurant
+Tell me where the Campus Museum is.,find_location,museum
+How do I get to the Campus Lobby?,find_location,lobby
+What is the Meeting Room?,get_description,meeting_room
+Until what time is the Meeting Room open?,ask_hours,meeting_room
+Can you direct me to the Campus Bookstore?,find_location,bookstore
+Can you direct me to the Computer Laboratory?,find_location,computerroom
+Where can I find the Main Staircase?,find_location,stairscase
+Tell me about upcoming events at the Corridor Hub.,find_event,corridor
+What programmes are running at the Art Studio?,find_event,artstudio
+Is there anything going on at the Meeting Room?,find_event,meeting_room
+I need to find the Main Staircase.,find_location,stairscase
+What is the Locker Room?,get_description,locker_room
+What events are happening at the Campus Restaurant?,find_event,restaurant
+Tell me about the Campus Gymnasium.,get_description,gym
+Where is the Campus Lobby?,find_location,lobby
+Tell me about the Campus Dining Room.,get_description,dining_room
+When is the Campus Gymnasium available?,ask_hours,gym
+Until what time is the Art Studio open?,ask_hours,artstudio
+What activities are scheduled at the Campus Lobby?,find_event,lobby
+Show me the way to the Fast Food Restaurant.,find_location,fastfood_restaurant
+Which floor is the Main Staircase on?,find_location,stairscase
+Until what time is the Campus Gymnasium open?,ask_hours,gym
+Can you list events at the Meeting Room?,find_event,meeting_room
+Where is the Locker Room?,find_location,locker_room
+What can I do at the Campus Lobby?,get_description,lobby
+How do I get to the Corridor Hub?,find_location,corridor
+Which floor is the University Library on?,find_location,library
+Can you list events at the Art Studio?,find_event,artstudio
+How do I get to the Meeting Room?,find_location,meeting_room
+What facilities does the Corridor Hub have?,get_description,corridor
+What is happening at the Fast Food Restaurant today?,find_event,fastfood_restaurant
+Can I visit the Locker Room after 8 PM?,ask_hours,locker_room
+Where is the Main Staircase?,find_location,stairscase
+I would like to know more about the Main Auditorium.,get_description,auditorium
+Show me the way to the Campus Gymnasium.,find_location,gym
+I need to find the Main Auditorium.,find_location,auditorium
+Give me information about the Meeting Room.,get_description,meeting_room
+Are there seminars at the Faculty Office?,find_event,office
+What are the University Library hours today?,ask_hours,library
+Is there anything going on at the Campus Lobby?,find_event,lobby
+I would like to know more about the University Library.,get_description,library
+What is available in the Main Classroom Block?,get_description,classroom
+What is happening at the Campus Dining Room today?,find_event,dining_room
+What events are happening at the Fast Food Restaurant?,find_event,fastfood_restaurant
+What time does the Campus Dining Room close?,ask_hours,dining_room
+Tell me where the Locker Room is.,find_location,locker_room
+Is the Art Studio open on weekends?,ask_hours,artstudio
+Can I visit the Campus Restaurant after 8 PM?,ask_hours,restaurant
+Which floor is the Main Auditorium on?,find_location,auditorium
+Is the Meeting Room open on weekends?,ask_hours,meeting_room
+What does the Faculty Office offer?,get_description,office
+What facilities does the Campus Restaurant have?,get_description,restaurant
+Can you list events at the Main Staircase?,find_event,stairscase
+What activities are scheduled at the Faculty Office?,find_event,office
+What programmes are running at the Campus Bookstore?,find_event,bookstore
+Where can I find the Campus Museum?,find_location,museum
+What is the location of the Campus Lobby?,find_location,lobby
+I need to find the Art Studio.,find_location,artstudio
+Is the Wet Laboratory open now?,ask_hours,laboratorywet
+Is there anything going on at the Campus Restaurant?,find_event,restaurant
+What events are happening at the Faculty Office?,find_event,office
+Give me information about the Wet Laboratory.,get_description,laboratorywet
+Describe the Fast Food Restaurant for me.,get_description,fastfood_restaurant
+What are the Corridor Hub hours today?,ask_hours,corridor
+What is the location of the Campus Gymnasium?,find_location,gym
+What is the Campus Bookstore?,get_description,bookstore
+Where is the Computer Laboratory?,find_location,computerroom
+What time does the Main Elevator close?,ask_hours,elevator
+Are there any events at the Art Studio?,find_event,artstudio
+Can I visit the Fast Food Restaurant after 8 PM?,ask_hours,fastfood_restaurant
+Show me the way to the Art Studio.,find_location,artstudio
+What activities are scheduled at the Campus Bookstore?,find_event,bookstore
+Show me the way to the Corridor Hub.,find_location,corridor
+Tell me about upcoming events at the Campus Gymnasium.,find_event,gym
+Describe the Campus Bookstore for me.,get_description,bookstore
+Give me information about the Main Staircase.,get_description,stairscase
+What facilities does the Art Studio have?,get_description,artstudio
+Show me the way to the Campus Museum.,find_location,museum
+What services are available at the Campus Dining Room?,get_description,dining_room
+I need to find the Fast Food Restaurant.,find_location,fastfood_restaurant
+What are the opening hours of the Faculty Office?,ask_hours,office
+Are there seminars at the Main Classroom Block?,find_event,classroom
+Is the Waiting Room open on weekends?,ask_hours,waitingroom
+Until what time is the Campus Museum open?,ask_hours,museum
+Tell me about the University Library.,get_description,library
+When does the Campus Dining Room open?,ask_hours,dining_room
+What facilities does the Fast Food Restaurant have?,get_description,fastfood_restaurant
+Can you direct me to the Waiting Room?,find_location,waitingroom
+What does the Main Auditorium offer?,get_description,auditorium
+Is the Art Studio open now?,ask_hours,artstudio
+I would like to know more about the Campus Museum.,get_description,museum
+What services are available at the Faculty Office?,get_description,office
+Which floor is the Computer Laboratory on?,find_location,computerroom
+What are the Computer Laboratory hours today?,ask_hours,computerroom
+What services are available at the Campus Museum?,get_description,museum
+I would like to know more about the Campus Bookstore.,get_description,bookstore
+What are the Waiting Room hours today?,ask_hours,waitingroom
+What facilities does the Campus Dining Room have?,get_description,dining_room
+What events are happening at the Campus Lobby?,find_event,lobby
+What facilities does the Campus Bookstore have?,get_description,bookstore
+Describe the Waiting Room for me.,get_description,waitingroom
+What services are available at the Fast Food Restaurant?,get_description,fastfood_restaurant
+What is the Campus Dining Room?,get_description,dining_room
+Is there anything going on at the Locker Room?,find_event,locker_room
+Is the Faculty Office near the entrance?,find_location,office
+What are the opening hours of the Corridor Hub?,ask_hours,corridor
+What are the Meeting Room hours today?,ask_hours,meeting_room
+Which floor is the Campus Lobby on?,find_location,lobby
+What services are available at the Waiting Room?,get_description,waitingroom
+What is the location of the Wet Laboratory?,find_location,laboratorywet
+Are there seminars at the Wet Laboratory?,find_event,laboratorywet
+Show me the way to the Computer Laboratory.,find_location,computerroom
+Are there seminars at the Art Studio?,find_event,artstudio
+Until what time is the Wet Laboratory open?,ask_hours,laboratorywet
+What facilities does the Wet Laboratory have?,get_description,laboratorywet
+What is happening at the Main Auditorium today?,find_event,auditorium
+What is the Campus Gymnasium?,get_description,gym
+Until what time is the Fast Food Restaurant open?,ask_hours,fastfood_restaurant
+What programmes are running at the Locker Room?,find_event,locker_room
+Is the Campus Restaurant near the entrance?,find_location,restaurant
+Can I visit the Main Elevator after 8 PM?,ask_hours,elevator
+What services are available at the Main Elevator?,get_description,elevator
+Give me information about the Campus Restaurant.,get_description,restaurant
+What is the Campus Restaurant?,get_description,restaurant
+I need to find the Waiting Room.,find_location,waitingroom
+Show me the way to the Wet Laboratory.,find_location,laboratorywet
+What events are happening at the Main Auditorium?,find_event,auditorium
+What services are available at the Main Auditorium?,get_description,auditorium
+What are the Wet Laboratory hours today?,ask_hours,laboratorywet
+Is the Campus Lobby near the entrance?,find_location,lobby
+Where is the Campus Gymnasium?,find_location,gym
+What are the opening hours of the Campus Bookstore?,ask_hours,bookstore
+I would like to know more about the Campus Gymnasium.,get_description,gym
+What is the location of the Computer Laboratory?,find_location,computerroom
+Where can I find the Main Auditorium?,find_location,auditorium
+What time does the Locker Room close?,ask_hours,locker_room
+Are there seminars at the Campus Dining Room?,find_event,dining_room
+Tell me where the Wet Laboratory is.,find_location,laboratorywet
+What programmes are running at the Corridor Hub?,find_event,corridor
+I need to find the Locker Room.,find_location,locker_room
+Tell me where the Main Staircase is.,find_location,stairscase
+I need to find the Campus Bookstore.,find_location,bookstore
+When is the Campus Dining Room available?,ask_hours,dining_room
+Which floor is the Fast Food Restaurant on?,find_location,fastfood_restaurant
+Can you direct me to the Campus Restaurant?,find_location,restaurant
+What services are available at the Art Studio?,get_description,artstudio
+What is happening at the Campus Lobby today?,find_event,lobby
+Tell me where the Main Classroom Block is.,find_location,classroom
+What does the Campus Lobby offer?,get_description,lobby
+What is happening at the Waiting Room today?,find_event,waitingroom
+What services are available at the Campus Lobby?,get_description,lobby
+Can I visit the Main Classroom Block after 8 PM?,ask_hours,classroom
+What facilities does the Campus Museum have?,get_description,museum
+What time does the Campus Museum start?,ask_hours,museum
+Tell me about the Art Studio.,get_description,artstudio
+Tell me where the Campus Lobby is.,find_location,lobby
+What is happening at the Campus Restaurant today?,find_event,restaurant
+Show me the way to the Main Classroom Block.,find_location,classroom
+Give me information about the Campus Lobby.,get_description,lobby
+Where can I find the Wet Laboratory?,find_location,laboratorywet
+What activities are scheduled at the Campus Gymnasium?,find_event,gym
+Tell me about upcoming events at the Computer Laboratory.,find_event,computerroom
+Show me the way to the Meeting Room.,find_location,meeting_room
+How do I get to the Main Elevator?,find_location,elevator
+Tell me where the Main Elevator is.,find_location,elevator
+Is the Fast Food Restaurant open now?,ask_hours,fastfood_restaurant
+Is the Fast Food Restaurant near the entrance?,find_location,fastfood_restaurant
+Until what time is the Locker Room open?,ask_hours,locker_room
+What can I do at the Meeting Room?,get_description,meeting_room
+What is happening at the Corridor Hub today?,find_event,corridor
+Any workshops at the Campus Museum this week?,find_event,museum
+What programmes are running at the Campus Dining Room?,find_event,dining_room
+Give me information about the Fast Food Restaurant.,get_description,fastfood_restaurant
+When does the Art Studio open?,ask_hours,artstudio
+Until what time is the Main Auditorium open?,ask_hours,auditorium
+Can I visit the Campus Dining Room after 8 PM?,ask_hours,dining_room
+What is available in the Campus Bookstore?,get_description,bookstore
+Describe the Faculty Office for me.,get_description,office
+What events are happening at the Corridor Hub?,find_event,corridor
+Are there any events at the Waiting Room?,find_event,waitingroom
+What is happening at the Wet Laboratory today?,find_event,laboratorywet
+What are the Campus Bookstore hours today?,ask_hours,bookstore
+Describe the Campus Lobby for me.,get_description,lobby
+What can I do at the Campus Museum?,get_description,museum
+What events are happening at the Wet Laboratory?,find_event,laboratorywet
+I would like to know more about the Locker Room.,get_description,locker_room
+Which floor is the Campus Restaurant on?,find_location,restaurant
+Until what time is the Campus Dining Room open?,ask_hours,dining_room
+What is the Main Elevator?,get_description,elevator
+Tell me about upcoming events at the Campus Lobby.,find_event,lobby
+What time does the Campus Gymnasium start?,ask_hours,gym
+When is the University Library available?,ask_hours,library
+Any workshops at the Waiting Room this week?,find_event,waitingroom
+What time does the Campus Restaurant close?,ask_hours,restaurant
+Are there any events at the Wet Laboratory?,find_event,laboratorywet
+When does the Locker Room open?,ask_hours,locker_room
+What services are available at the Wet Laboratory?,get_description,laboratorywet
+Is the Main Elevator near the entrance?,find_location,elevator
+Can you direct me to the Wet Laboratory?,find_location,laboratorywet
+Where is the Campus Restaurant?,find_location,restaurant
+Which floor is the Locker Room on?,find_location,locker_room
+I need to find the Main Classroom Block.,find_location,classroom
+Is the Main Auditorium open on weekends?,ask_hours,auditorium
+Tell me where the Campus Gymnasium is.,find_location,gym
+Are there any events at the Campus Museum?,find_event,museum
+Give me information about the Main Auditorium.,get_description,auditorium
+What is the Campus Museum?,get_description,museum
+What time does the Campus Bookstore start?,ask_hours,bookstore
+What activities are scheduled at the Meeting Room?,find_event,meeting_room
+Is there anything going on at the Main Auditorium?,find_event,auditorium
+Describe the Main Auditorium for me.,get_description,auditorium
+Where is the Corridor Hub?,find_location,corridor
+What events are happening at the Campus Museum?,find_event,museum
+What services are available at the Campus Bookstore?,get_description,bookstore
+What services are available at the Locker Room?,get_description,locker_room
+Is the Main Staircase near the entrance?,find_location,stairscase
+What are the Art Studio hours today?,ask_hours,artstudio
+What are the opening hours of the Waiting Room?,ask_hours,waitingroom
+What programmes are running at the Wet Laboratory?,find_event,laboratorywet
+When does the Main Classroom Block open?,ask_hours,classroom
+Until what time is the Faculty Office open?,ask_hours,office
+What are the opening hours of the Main Auditorium?,ask_hours,auditorium
+Is the University Library open now?,ask_hours,library
+What are the opening hours of the Main Classroom Block?,ask_hours,classroom
+When does the Main Auditorium open?,ask_hours,auditorium
+What is the location of the Main Auditorium?,find_location,auditorium
+How do I get to the Art Studio?,find_location,artstudio
+Can I visit the Campus Gymnasium after 8 PM?,ask_hours,gym
+Give me information about the Locker Room.,get_description,locker_room
+Is the Main Classroom Block near the entrance?,find_location,classroom
+Where can I find the Campus Dining Room?,find_location,dining_room
+What events are happening at the Campus Bookstore?,find_event,bookstore
+Is the Computer Laboratory open now?,ask_hours,computerroom
+Are there seminars at the Campus Gymnasium?,find_event,gym
+What activities are scheduled at the Main Staircase?,find_event,stairscase
+Can you list events at the Main Elevator?,find_event,elevator
+What are the opening hours of the Campus Gymnasium?,ask_hours,gym
+Tell me about upcoming events at the Campus Bookstore.,find_event,bookstore
+I would like to know more about the Waiting Room.,get_description,waitingroom
+What is happening at the Campus Bookstore today?,find_event,bookstore
+What is available in the Art Studio?,get_description,artstudio
+What is happening at the Meeting Room today?,find_event,meeting_room
+What programmes are running at the Meeting Room?,find_event,meeting_room
+What is available in the Main Staircase?,get_description,stairscase
+What services are available at the Computer Laboratory?,get_description,computerroom
+Tell me about upcoming events at the Main Staircase.,find_event,stairscase
+What can I do at the Wet Laboratory?,get_description,laboratorywet
+Where is the Wet Laboratory?,find_location,laboratorywet
+Is the University Library open on weekends?,ask_hours,library
+I would like to know more about the Corridor Hub.,get_description,corridor
+Give me information about the Computer Laboratory.,get_description,computerroom
+Describe the Main Elevator for me.,get_description,elevator
+What does the University Library offer?,get_description,library
+Is the Campus Restaurant open on weekends?,ask_hours,restaurant
+What programmes are running at the Campus Gymnasium?,find_event,gym
+Tell me where the Campus Dining Room is.,find_location,dining_room
+Is the Locker Room near the entrance?,find_location,locker_room
+How do I get to the Fast Food Restaurant?,find_location,fastfood_restaurant
+Can you direct me to the Campus Dining Room?,find_location,dining_room
+What is happening at the Main Classroom Block today?,find_event,classroom
+I would like to know more about the Campus Restaurant.,get_description,restaurant
+Can you direct me to the Main Auditorium?,find_location,auditorium
+When is the Art Studio available?,ask_hours,artstudio
+Where can I find the Main Elevator?,find_location,elevator
+What is happening at the Computer Laboratory today?,find_event,computerroom
+Is the Locker Room open now?,ask_hours,locker_room
+How do I get to the University Library?,find_location,library
+Is there anything going on at the University Library?,find_event,library
+Can you list events at the Faculty Office?,find_event,office
+Where is the Campus Museum?,find_location,museum
+Where can I find the Campus Gymnasium?,find_location,gym

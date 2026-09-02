@@ -1,0 +1,51 @@
+filename,ground_truth,whisper_transcript
+artstudio_direction.wav,The art studio is in Building D on the third floor.,The art studio is in building D on the third floor.
+artstudio_event.wav,A contemporary art exhibition is currently on display at the art studio.,A contemporary art exhibition is currently on display at the art studio.
+artstudio_hours.wav,The art studio is open from nine in the morning to six in the evening.,The art studio is open from 9 in the morning to 6 in the evening.
+auditorium_direction.wav,The main auditorium is in Building C on the ground floor.,The main auditorium is in building C on the ground floor.
+auditorium_event.wav,The annual tech symposium will be held in the auditorium this Friday.,The annual tech symposium will be held in the auditorium this Friday.
+auditorium_hours.wav,The auditorium is open from eight in the morning to nine at night.,The auditorium is open from 8 in the morning to 9 at night.
+bookstore_direction.wav,The campus bookstore is in Building A on the ground floor.,The campus bookstore is in building A on the ground floor.
+bookstore_event.wav,The bookstore is running a semester textbook sale this month.,The bookstore is running a semester textbook seal this month.
+bookstore_hours.wav,The bookstore is open from nine in the morning to five in the evening.,The bookstore is open from 9 in the morning to 5 in the evening.
+cafeteria_event.wav,An open office hour session is available at the faculty offices this afternoon.,and open office our session is available at the faculty offices this afternoon.
+classroom_direction.wav,Classrooms are located in Building E on all floors.,Classrooms are located in building E on all floors.
+classroom_event.wav,A guest lecturer series is taking place in the classroom block this term.,A guest lecturer series is taking place in the classroom block this turn.
+computer_lab_direction.wav,The computer laboratory is in Building B on the first floor.,The computer laboratory is in building B on the first floor.
+computer_lab_event.wav,A Python programming session is scheduled at the computer lab today.,A Python programming session is scheduled at the computer lab today.
+computer_lab_hours.wav,The computer lab is open from nine in the morning to eight in the evening.,The computer lab is open from 9 in the morning to 8 in the evening.
+corridor_info.wav,The central corridor connects all departments and has notice boards with current announcements.,The central corridor connects all departments and has notice boards with current announcements.
+dining_room_direction.wav,The dining room is in Building F on the ground floor.,The dining room is in building F on the ground floor.
+dining_room_event.wav,An international food festival is taking place in the dining room.,An international food festival is taking place in the dining room.
+dining_room_hours.wav,The dining room is open from seven thirty in the morning to eight in the evening.,The dining room is open from 7.30 in the morning to 8 in the evening.
+elevator_info.wav,The main elevator in Building A provides accessible access to all floors.,The mean elevator in building it provides accessible access to all floors.
+fastfood_event.wav,The fast food restaurant is running a student discount week.,The fast food restaurant is running the students this count week.
+fastfood_hours.wav,The fast food restaurant is open from eight in the morning to nine at night.,The fast food restaurant is open from 8 in the morning to 9 at night.
+general_campus_info.wav,"Welcome to the campus orientation assistant. I can help you find locations, hours, and events.","Welcome to the campus orientation assistant. I can help you find locations, hours, and events."
+gym_direction.wav,The campus gymnasium is in the sports complex on the ground floor.,The campus gymnasium is in the sports complex on the ground floor.
+gym_event.wav,A fitness challenge competition is happening at the gym this weekend.,A fitness challenge competition is happening at the gym this weekend.
+gym_hours.wav,The gym is open from six in the morning to ten at night.,The gym is open from 6 in the morning to 10 at night.
+lab_direction.wav,The wet laboratory is in Building H on the second floor.,The wet laboratory is in building hatch on the second floor.
+lab_event.wav,The wet laboratory is hosting a research open day on Thursday.,"The wet laboratory is hosting a research, open day on Thursday."
+lab_hours.wav,The wet laboratory is open from eight in the morning to six in the evening.,The wet laboratory is open from 8 in the morning to 6 in the evening.
+library_direction.wav,The university library is located in Building A on the second floor.,The university library is located in building A on the second floor.
+library_event.wav,The library is hosting an academic writing workshop this week.,The library is hosting an academic writing workshop this week.
+library_hours.wav,The library is open from eight in the morning to ten at night.,The library is open from 8 in the morning to 10 at night.
+lobby_direction.wav,The main lobby is at the ground floor entrance of Building A.,The main lobby is at the ground floor entrance of Building A.
+lobby_event.wav,Welcome orientation day is being held at the main lobby today.,Welcome orientation day is being held at the main lobby today.
+locker_room_hours.wav,The locker room is accessible from six in the morning to ten at night.,The locker room is accessible from 6 in the morning to 10 at night.
+locker_room_info.wav,Secure student lockers are available near the sports complex on the first floor.,Secure student locker are available near the sports complex on the first floor.
+meeting_room_direction.wav,Meeting rooms are available in Building B on the third floor.,Meeting rooms are available in building B on the third floor.
+meeting_room_event.wav,An industry mentorship session is scheduled in the meeting room tomorrow.,An industry mentorship session is scheduled in the meeting room tomorrow.
+meeting_room_hours.wav,Meeting rooms are available from eight in the morning to eight in the evening.,Meeting rooms are available from 8 in the morning to 8 in the evening.
+museum_direction.wav,The campus museum is in Building I on the ground floor.,The campus museum is in building pipe on the ground floor.
+museum_event.wav,A heritage week exhibition is currently open at the campus museum.,A heritage week exhibition is currently open at the campus museum.
+museum_hours.wav,The museum is open from ten in the morning to five in the evening.,The museum is open from 10 in the morning to 5 in the evening.
+office_direction.wav,Faculty offices are spread across all floors of Building J.,Faculty officers are spread across all floors of Building J.
+office_hours.wav,Faculty offices are open from nine in the morning to five in the evening.,Faculty officers are open from 9 in the morning to 5 in the evening.
+restaurant_direction.wav,The campus restaurant is in Building K on the ground floor.,The campus restaurant is in building K on the ground floor.
+restaurant_event.wav,The restaurant is hosting a chef special food night every Friday.,The restaurant is hosting a chef's special food night every Friday.
+restaurant_hours.wav,The restaurant is open from eleven in the morning to nine at night.,The restaurant is open from 11 in the morning to 9 at night.
+staircase_info.wav,The main staircase is available in all buildings and is open twenty four hours.,The main staircase is available in all buildings and is open 24 hours.
+waiting_room_direction.wav,The waiting room is in Building A on the first floor.,The waiting room is in building A on the first floor.
+waiting_room_hours.wav,The waiting room is open from eight in the morning to six in the evening.,The waiting room is open from 8 in the morning to 6 in the evening.

@@ -1,0 +1,11 @@
+Component,Metric,Value
+CLIP + FAISS (Image Retrieval),Top-1 Accuracy,62.58%
+CLIP + FAISS (Image Retrieval),Top-3 Accuracy,83.88%
+CLIP + FAISS (Image Retrieval),Top-5 Accuracy,89.39%
+Whisper ASR (Speech),Mean WER,7.67%
+DistilBERT (Intent Classification),Accuracy,100.00%
+DistilBERT (Intent Classification),Macro F1,100.00%
+DistilBERT (Location Entity),Accuracy,100.00%
+DistilBERT (Location Entity),Macro F1,100.00%
+Fusion MLP (Image-only),KB Retrieval Accuracy,98.21%
+Fusion MLP (Text-only),KB Retrieval Accuracy,99.25%
